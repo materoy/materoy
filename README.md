@@ -1,18 +1,19 @@
 ### Hi there 👋 I'm Roy
 
+- 🌱 I’m currently learning embedded devices
+- 💬 Ask me about random stuff
+- 📫 How to reach me: I wish Github had chat
+- ⚡ Fun fact: I run, no seriously.
 <!--
 **materoy/materoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning Vulkan, Rust, embedded
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
- 💬 Ask me about psychology
- 📫 How to reach me: I wish Github had chat
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ### Languages
