@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning embedded devices
 - 💬 Ask me about random stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/materoyd)
+- 📫 Reach out to me on [Twitter](https://twitter.com/materoyd). 
 - ⚡ Fun fact: ...
 <!--
 **materoy/materoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
