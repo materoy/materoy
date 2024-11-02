@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Roy
 
-I Design | Build | Inspire
+Design | Build | Inspire
 
 - 🌱 I’m currently learning embedded devices
 - 💬 Ask me about random stuff
